@@ -1,0 +1,10 @@
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\bin\Debug\Terrenal, Kiel _Inventory.exe.config
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\bin\Debug\Terrenal, Kiel _Inventory.exe
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\bin\Debug\Terrenal, Kiel _Inventory.pdb
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\obj\Debug\Terrenal, Kiel _Inventory.csproj.AssemblyReference.cache
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\obj\Debug\Terrenal__Kiel__Inventory.frmAddProduct.resources
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\obj\Debug\Terrenal__Kiel__Inventory.Properties.Resources.resources
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\obj\Debug\Terrenal, Kiel _Inventory.csproj.GenerateResource.cache
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\obj\Debug\Terrenal, Kiel _Inventory.csproj.CoreCompileInputs.cache
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\obj\Debug\Terrenal, Kiel _Inventory.exe
+C:\Users\LAB5-PC034\source\repos\Terrenal, Kiel _Inventory\Terrenal, Kiel _Inventory\obj\Debug\Terrenal, Kiel _Inventory.pdb
